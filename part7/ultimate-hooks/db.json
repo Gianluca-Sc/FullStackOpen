@@ -1,0 +1,59 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom hooks are awesome"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "aaaa",
+      "id": 3
+    },
+    {
+      "content": "gianni",
+      "id": 4
+    },
+    {
+      "content": "pino",
+      "id": 5
+    },
+    {
+      "content": "ggia",
+      "id": 6
+    },
+    {
+      "content": "ggia",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Matti Luukkainen",
+      "number": "040-12344565"
+    },
+    {
+      "id": 2,
+      "name": "Tarja Halonen",
+      "number": "040-2223334"
+    },
+    {
+      "name": "gianni",
+      "number": "065-4454",
+      "id": 3
+    },
+    {
+      "name": "gianni",
+      "number": "065-4454",
+      "id": 4
+    },
+    {
+      "name": "minlo",
+      "number": "577987",
+      "id": 5
+    }
+  ]
+}
